@@ -11,3 +11,9 @@
 1. Push this change back up to your repo (`git push origin master`).
 
 ## Your paragraph here:
+
+I ended up reading/watching a handful of these presentations but the one I found to be the most helpful was "How to Stay Up to Date on Web Stuff" by Chris Coyier.
+
+This particular presentation was a set a slides focusing on staying up to date on front-end development news and technologies. It caught my attention because I am always looking for more resources to help keep me in the "loop". The jackpot of this presentation is the section labeled "Boss Slides", it's a compilation of resources including sites, newsletters, and twitter accounts. I was aware of a small portion of the resources but there was a handful that I wasn't aware of. 
+
+More resources, news, and information. Since I'm in school and I enjoy learning new technologies or even better ways to use the technologies I know, this presentation was awesome.
